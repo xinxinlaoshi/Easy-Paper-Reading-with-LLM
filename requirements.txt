@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-unstructured[local]
+unstructured
+pinecone-client[grpc]
+langchain-pinecone
+langchain-openai
+langchain-text-splitters
+langchainhub
+langchain-chroma 
+bs4
+uuid
